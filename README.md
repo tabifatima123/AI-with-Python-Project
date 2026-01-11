@@ -59,6 +59,8 @@ cardio
 The dataset is stored in the data/ directory.
 
 ⚙️ Methodology
+
+
 1️⃣ Data Preprocessing
 
 Cleaning and inspection of clinical features
@@ -67,11 +69,13 @@ Handling categorical and numerical variables
 
 Feature selection for modeling
 
+
 2️⃣ Supervised Machine Learning
 
 Models trained to predict cardiovascular disease
 
 Performance evaluated using accuracy and classification metrics
+
 
 3️⃣ Reinforcement Learning for Triage
 
