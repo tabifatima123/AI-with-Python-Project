@@ -1,4 +1,5 @@
 🫀 Cardiovascular Disease Prediction using Machine Learning and Reinforcement Learning
+
 📌 Project Overview
 
 This project presents a hybrid AI system for healthcare decision support that combines supervised machine learning and reinforcement learning to:
@@ -9,6 +10,8 @@ Recommend an optimal medical triage decision (Home Care, Outpatient Care, or Eme
 
 The project demonstrates how prediction (ML) and decision-making (RL) can work together in real-world healthcare systems.
 
+
+
 🧠 Key Concept
 
 Machine Learning (ML) → Disease prediction
@@ -18,6 +21,8 @@ Reinforcement Learning (RL) → Decision policy
 Hybrid AI System → Prediction + Action
 
 This mirrors how modern intelligent healthcare systems operate under uncertainty.
+
+
 
 📊 Dataset
 
@@ -96,6 +101,7 @@ AI-with-Python-Project/
 │
 ├── requirements.txt
 └── README.md
+
 
 ▶️ How to Run the Project
 Step 1: Install Dependencies
