@@ -92,16 +92,25 @@ Emergency Care
 Rewards structured to prioritize patient safety and resource efficiency
 
 📁 Project Structure
+
+
 AI-with-Python-Project/
+
+
 │
 ├── notebooks/
+
 │   └── AI_with_python_project.ipynb
+
 │
 ├── data/
+
 │   ├── cardio_train.csv
 │   └── README.md
 │
 ├── outputs/
+
+
 │
 ├── requirements.txt
 └── README.md
