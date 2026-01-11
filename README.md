@@ -118,7 +118,10 @@ AI-with-Python-Project/
 
 
 ▶️ How to Run the Project
+
+
 Step 1: Install Dependencies
+
 pip install -r requirements.txt
 
 Step 2: Open the Notebook
@@ -165,6 +168,3 @@ Deploy as a web-based clinical decision support system
 
 
 
-Fatima
-AI & Machine Learning Enthusiast
-Computer Science & Engineering
